@@ -1,1 +1,1 @@
-creature: bash creat.sh
+creature: bash creature.sh
